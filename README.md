@@ -6,8 +6,10 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Instalação](#instalacao)
+      - Utilizar no terminal o comando "npm install" para instalação de dependências 
    * [Como usar](#como-usar)
-      - Utilizar no terminal o comanda "npm install" para instalação de dependências 
+      - Utlizar o comando "npm run dev" para inicar a aplicação na porta 3333
+      - Rotas: task, user e dash
    * [Tecnologias](#tecnologias)
       - Node
       - EsLint
