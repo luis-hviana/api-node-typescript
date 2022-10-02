@@ -25,7 +25,7 @@ private initMongoose(): void {
 }
 
 private connectDatabase(): void {
-  mongoose.connect('mongodb+srv://luishviana:1308jp10@cluster0.iig5qf6.mongodb.net/?retryWrites=true&w=majority', {
+  mongoose.connect('MongoURI', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
