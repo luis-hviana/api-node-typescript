@@ -1,6 +1,6 @@
 # api-node-typescript
 
-### Projeto criado durante o curso criado pelo DevInvestidor.
+#### Projeto criado com base no conteudo criado pelo DevInvestidor.
 
 Tabela de conteúdos
 =================
